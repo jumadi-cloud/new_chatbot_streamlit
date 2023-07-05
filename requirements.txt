@@ -1,0 +1,5 @@
+openai
+streamlit-chat==0.0.2.1
+streamlit_lottie==0.0.2
+streamlit-option-menu
+
